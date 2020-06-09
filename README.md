@@ -37,7 +37,7 @@ Dia 5: Milha extra 05/06 - ✔️
 </h1>
 
 <h1>
-<img src="public/assets/ecoleta.gif" alt="Gif demonstrativo Ecoleta">
+<img src="public/assets/Ecoleta.gif" alt="Gif demonstrativo Ecoleta">
 </h1>
 
 ## 📝️ Sobre
